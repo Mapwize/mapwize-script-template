@@ -1,0 +1,24 @@
+{
+  "name": "mapwize-script-template",
+  "version": "1.0.0",
+  "description": "Template and best practices for writing a Node.js script to process Mapwize data",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "mapwize-node-api": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mapwize/mapwize-script-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mapwize/mapwize-script-template/issues"
+  },
+  "homepage": "https://github.com/Mapwize/mapwize-script-template#readme"
+}
