@@ -53,7 +53,7 @@ let bottomRight = {}
 const mapwizeAPI = new MapwizeApi(apiKey, organizationId, { serverUrl: serverUrl || 'http://localhost:3000' });
 
 
-module.exports = (async () => {
+(async () => {
     try {
 
         // Universe
